@@ -22,3 +22,6 @@
    ```bash
    git clone https://github.com/yourusername/game-collection.git
    cd game-collection
+
+
+![image](https://github.com/johannvig/Game-collection/assets/102874093/c84343f8-70d5-4123-8341-f685abe87ffe)
