@@ -1,0 +1,98 @@
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #211F2A;
+    color: white;
+}
+
+
+.game-update-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.game-info {
+    color: white;
+    flex: 1;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.game-image {
+    width: 200px;
+    height: 300px;
+
+
+}
+
+.game-image img {
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+    margin-top: 40px;
+
+}
+
+
+.time-add-form {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+
+}
+
+
+.time-add-form h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 13px;
+}
+
+.time-add-form input[type="number"] {
+    background: #2B2F40;
+    color: white;
+    padding: 7px;
+    width: 40%;
+
+
+}
+
+.time-add-form input[type="number"],
+.time-add-form button,
+.game-remove-form button {
+
+    border-style: none;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.time-add-form button {
+    padding: 5px;
+    width: 16%;
+}
+
+.game-remove-form button {
+    padding: 5px;
+    width: 50%;
+}
+
+button {
+    background-color: #6757D6;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 4px;
+}
+
+
+

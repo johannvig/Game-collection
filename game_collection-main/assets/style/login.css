@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;700&display=swap');
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background: #211F2A;
+    color: white;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background: #252836;
+    border-radius: 20px;
+    height: fit-content;
+    width: 520px;
+    padding: 40px;
+    gap: 25px;
+}
+
+.login h1 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    margin: 0;
+}
+
+.login form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    gap: 10px;
+}
+
+.login form input {
+    height: 36px;
+    width: 100%;
+    border-radius: 5px;
+    background: #2B2F40;
+    border: 0;
+    color: white;
+    padding-left: 10px;
+}
+
+.login #connect {
+    width: 132px;
+    height: 36px;
+    border-radius: 10px;
+    background: #6757D6;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.login a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+}

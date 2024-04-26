@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 90px;
+    padding-inline: 30px;
+}
+
+header .logo {
+    width: 20%;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+header .acces {
+    display: flex;
+    justify-content: right;
+    width: 80%;
+    gap: 20px;
+}
+
+header .acces a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+}
+
+/* fin CSS header */

@@ -1,0 +1,79 @@
+body {
+
+    color: #ffffff;
+}
+
+
+main {
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+
+.form-group {
+    margin-bottom: 1.5em;
+
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: .5em;
+}
+
+.form-group input[type="text"] {
+    width: 20%;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: none;
+    background-color: #2B2F40;
+    color: #fff;
+}
+
+.submit-btn {
+    padding: 0.75em;
+    background-color: #6757D6;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    display: block;
+    width: 13%;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.form-group input {
+    width: 20%;
+}
+
+.form-group select, .form-group input, .form-group textarea {
+    padding: .5em;
+    border-radius: 5px;
+    border: none;
+    background-color: #2B2F40;
+    color: #fff;
+}
+
+.form-group select[multiple] {
+    width: 55%;
+    height: auto;
+}
+
+.form-group textarea {
+    width: 55%;
+    height: 100px;
+}
+
+
+.checkbox-group div {
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+}
+
+
+.checkbox-group label {
+    flex: 0.1;
+    margin-left: 0.5em;
+}

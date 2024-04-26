@@ -1,0 +1,39 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+h1, input, label {
+    color: white;
+}
+
+label {
+    margin-top: 8px;
+    font-weight: 400;
+}
+
+main {
+    margin-left: 120px;
+}
+
+input {
+    background-color: #2B2F40;
+    border: 0;
+    border-radius: 8px;
+    padding: 8px;
+    width: 15vw;
+}
+
+button {
+    border-radius: 16px;
+    padding: 10px;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+    font-family: Barlow, sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    background: #6757D6;
+    margin-top: 16px;
+}
