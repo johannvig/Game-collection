@@ -24,14 +24,14 @@
    cd game-collection
 
 
-<img align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/c84343f8-70d5-4123-8341-f685abe87ffe" width="600" alt="image">
+<img align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/c84343f8-70d5-4123-8341-f685abe87ffe" width="700" alt="image">
 <br>
 <br>
-<img  align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/689565bd-7708-4c76-8964-d61d9f83cbaf" width="600" alt="image">
+<img  align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/689565bd-7708-4c76-8964-d61d9f83cbaf" width="700" alt="image">
 <br>
 <br>
-<img align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/a6d3b610-cf36-4e01-8dec-129f77774643" width="600" alt="image">
+<img align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/a6d3b610-cf36-4e01-8dec-129f77774643" width="700" alt="image">
 <br>
 <br>
-<img align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/42ab695a-a101-4780-b00c-1f51cbf649c7" width="600" alt="image">
+<img align="center" src="https://github.com/johannvig/Game-collection/assets/102874093/42ab695a-a101-4780-b00c-1f51cbf649c7" width="700" alt="image">
 
